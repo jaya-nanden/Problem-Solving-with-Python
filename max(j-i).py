@@ -1,7 +1,7 @@
 class Maxdiff:
 	def max_diff_indexes(arr):
 		"""
-		Along with conditions to find which difference of indexes are maximum
+		Along with below conditions to find which difference of indexes are maximum
 		Conditions:
 			j > i
 			arr[j] > arr[i]
