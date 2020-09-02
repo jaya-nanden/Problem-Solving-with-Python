@@ -35,7 +35,6 @@ new_arr= Duplicate.no_duplicate(arr)
 # print('No duplicates {}'.format(new_arr))
 
 new_arr_len = Duplicate.no_duplicate_without_set(arr)
-
 print('No duplicates {}'.format(arr[:new_arr_len]))
 
 	
